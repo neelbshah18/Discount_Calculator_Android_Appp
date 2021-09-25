@@ -14,8 +14,8 @@ If user enters everything correctly the final result will be calculated and show
 
 More Specification about Project
 -------------------------------------
-Application is created  using  layout  files,  and  strings.xml  to  create  the  user  interface.  
-To  build  the  UI, 
+Application is created  using  layout  files,  and  strings.xml  to  create  the  user  interface. <br/>
+To  build  the  UI, <br />
 tasks:1. The  string  values  used  for  all  the  labels  used  in  this  application. 
 tasks:2. Use the “Hint” attribute to set the “Enter Ticket Price” grayed out hint in the EditView of the input field for the ticket price.
 tasks:3. The radio group provides selection of discounts 5%, 10%, 15%, 20% and 50%. 
